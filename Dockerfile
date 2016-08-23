@@ -1,5 +1,5 @@
 FROM centos:7
-MAINTAINER ronny@no42.org
+MAINTAINER ronny@opennms.org
 
 ENV JAVA_VERSION 8u102
 ENV JAVA_BUILD b14
